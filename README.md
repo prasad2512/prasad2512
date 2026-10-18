@@ -36,6 +36,40 @@
 
 ---
 
+## 🏅 Official GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/prasad2512?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="90" height="90" alt="Pull Shark Silver (x3)" title="Pull Shark (Silver x3) - Merged pull requests" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/prasad2512?tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" height="90" alt="Quickdraw" title="Quickdraw - Closed an issue or PR within 5 minutes" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/prasad2512?tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" height="90" alt="YOLO" title="YOLO - Merged a pull request without review" />
+</a>
+
+<br/>
+
+<a href="https://github.com/prasad2512?tab=achievements">
+  <img src="https://img.shields.io/badge/Pull_Shark-Silver_x3-8957e5?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/prasad2512?tab=achievements">
+  <img src="https://img.shields.io/badge/Quickdraw-Unlocked-238636?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/prasad2512?tab=achievements">
+  <img src="https://img.shields.io/badge/YOLO-Unlocked-0969da?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## 🌟 About Me
 
 - 💻 **Core Focus:** Full-Stack Web Development, Cross-Platform Mobile Apps (Flutter & React Native), and Distributed Backend Systems.
