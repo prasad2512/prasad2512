@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Prasad Navale 👋
-### 🚀 Full-Stack & Mobile Engineer • Open-Source Contributor • System Builder
+### 🚀 Full-Stack & Mobile Engineer • Open-Source Contributor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prasadnavale.me-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://prasadnavale.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Navale-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-navale-299635230)
@@ -13,24 +13,24 @@
   <em>Passionate developer focused on building scalable web & mobile architectures, AI-driven applications, and contributing to high-impact open-source ecosystems.</em>
 </p>
 
-<!-- 🏅 HERO ACHIEVEMENTS SHOWCASE -->
-<table align="center" style="border: none; border-collapse: collapse; margin-top: 10px; margin-bottom: 5px;">
+<!-- 🏅 HERO ACHIEVEMENTS -->
+<table align="center" style="border: none; border-collapse: collapse; margin-top: 8px;">
   <tr>
-    <td align="center" style="border: none; padding: 6px 18px;">
+    <td align="center" style="border: none; padding: 4px 16px;">
       <a href="https://github.com/prasad2512?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="68" height="68" alt="Pull Shark Silver (x3)" /><br/>
+        <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="60" height="60" alt="Pull Shark Silver (x3)" /><br/>
         <img src="https://img.shields.io/badge/Pull_Shark-Silver_x3-8957e5?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td align="center" style="border: none; padding: 6px 18px;">
+    <td align="center" style="border: none; padding: 4px 16px;">
       <a href="https://github.com/prasad2512?tab=achievements">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="68" height="68" alt="Quickdraw" /><br/>
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" height="60" alt="Quickdraw" /><br/>
         <img src="https://img.shields.io/badge/Quickdraw-Unlocked-238636?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td align="center" style="border: none; padding: 6px 18px;">
+    <td align="center" style="border: none; padding: 4px 16px;">
       <a href="https://github.com/prasad2512?tab=achievements">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="68" height="68" alt="YOLO" /><br/>
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" height="60" alt="YOLO" /><br/>
         <img src="https://img.shields.io/badge/YOLO-Unlocked-0969da?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
@@ -41,32 +41,25 @@
 
 </div>
 
-## 🏆 Open Source Contributions & Engineering Impact
+## 🏆 Open Source Contributions & Impact
 
-<div align="center">
-  <p><em>Active contributor to industry-standard developer platforms, frameworks, and top-trending enterprise runtimes:</em></p>
-</div>
-
-<div align="center">
-
-| Organization / Platform | Repository & Highlights | Contributions & Pull Requests | Status |
-| :--- | :--- | :--- | :---: |
-| ⚡ **REA**<br/><sub>🔥 **Trending #1 on GitHub Worldwide**</sub> | [`morluto/rea`](https://github.com/morluto/rea)<br/>*Reverse engineer anything with agents, native binaries & Frida diagnostics* | [**#4819**](https://github.com/morluto/rea/pull/4819): `fix(domain): admit Qualcomm Hexagon ELF binaries`<br/>[**#4838**](https://github.com/morluto/rea/pull/4838): `fix(javascript): admit CommonJS bare scoped package resolution`<br/>[**#5008**](https://github.com/morluto/rea/pull/5008): `fix(cli): expose device_id in list-frida-devices JSON output`<br/>[**#5011**](https://github.com/morluto/rea/pull/5011): `docs(cli): include Kuna in supported doctor providers`<br/>[**#5012**](https://github.com/morluto/rea/pull/5012): `docs(setup): clarify prebuild-install warning from optional deps` | [![Merged](https://img.shields.io/badge/PR_%234819-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4819)<br/>[![Merged](https://img.shields.io/badge/PR_%234838-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4838)<br/>[![Active](https://img.shields.io/badge/PR_%235008-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5008)<br/>[![Active](https://img.shields.io/badge/PR_%235011-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5011)<br/>[![Active](https://img.shields.io/badge/PR_%235012-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5012) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="22" height="22" valign="middle" /> **Google**<br/><sub>**Google APIs Official Node.js Client**</sub> | [`googleapis/google-api-nodejs-client`](https://github.com/googleapis/google-api-nodejs-client)<br/>*Official client library used across Google Cloud, Drive & Workspace* | [**#4052**](https://github.com/googleapis/google-api-nodejs-client/pull/4052): `feat(samples): add create permission sample for drive v3` | [![Active](https://img.shields.io/badge/PR_%234052-Review_Pending-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/googleapis/google-api-nodejs-client/pull/4052) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="22" height="22" valign="middle" /> **Flutter**<br/><sub>**Google's Multi-Platform UI Framework**</sub> | [`flutter/flutter`](https://github.com/flutter/flutter)<br/>*Core framework engine powering millions of mobile & cross-platform apps* | [**#194670**](https://github.com/flutter/flutter/pull/194670): `Refresh MediaQuery.alwaysUse24HourFormat on platform config changes` | [![Active](https://img.shields.io/badge/PR_%23194670-Open-238636?style=flat-square&logo=flutter&logoColor=white)](https://github.com/flutter/flutter/pull/194670) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22" height="22" valign="middle" /> **Microsoft**<br/><sub>**TypeScript Core Compiler & Tooling**</sub> | [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript)<br/>*The foundational type-safe language powering modern web engineering* | [**#64853**](https://github.com/microsoft/TypeScript/pull/64853): `Support @deprecated marker on namespace aliases (fixes #62340)` | [![Active](https://img.shields.io/badge/PR_%2364853-Open-238636?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript/pull/64853) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" valign="middle" /> **Microsoft**<br/><sub>**Visual Studio Code Editor**</sub> | [`microsoft/vscode`](https://github.com/microsoft/vscode)<br/>*The world's most widely adopted code editor and IDE platform* | [**#342315**](https://github.com/microsoft/vscode/pull/342315): `Fix unstage failing for modified files in repo without commits`<br/>[**#342314**](https://github.com/microsoft/vscode/pull/342314): `Fix gesture handler leaking cancelled touches (#332619)` | [![Active](https://img.shields.io/badge/PR_%23342315-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342315)<br/>[![Active](https://img.shields.io/badge/PR_%23342314-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342314) |
-
-</div>
+| Organization | Repository | Focus & Technical Impact | Pull Requests & Status |
+| :---: | :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22" alt="GitHub" /> | **[morluto/rea](https://github.com/morluto/rea)** <br/> `🔥 #1 Trending Globally` | Reverse-engineering agent framework, Qualcomm Hexagon ELF support & Frida CLI diagnostics | [![Merged](https://img.shields.io/badge/Merged-%234819-8957e5?style=flat-square)](https://github.com/morluto/rea/pull/4819) [![Merged](https://img.shields.io/badge/Merged-%234838-8957e5?style=flat-square)](https://github.com/morluto/rea/pull/4838)<br/>[![PR](https://img.shields.io/badge/Active-%235008-2ea44f?style=flat-square)](https://github.com/morluto/rea/pull/5008) [![PR](https://img.shields.io/badge/Active-%235011-2ea44f?style=flat-square)](https://github.com/morluto/rea/pull/5011) [![PR](https://img.shields.io/badge/Active-%235012-2ea44f?style=flat-square)](https://github.com/morluto/rea/pull/5012) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="22" alt="Google" /> | **[googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)** <br/> `Google Official` | Google Drive v3 permissions creation API sample & comprehensive unit test suites | [![PR](https://img.shields.io/badge/Active-%234052-2ea44f?style=flat-square)](https://github.com/googleapis/google-api-nodejs-client/pull/4052) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="22" alt="Flutter" /> | **[flutter/flutter](https://github.com/flutter/flutter)** <br/> `Google Framework` | Platform time format reactivity for `MediaQuery.alwaysUse24HourFormat` | [![PR](https://img.shields.io/badge/Active-%23194670-2ea44f?style=flat-square)](https://github.com/flutter/flutter/pull/194670) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22" alt="TypeScript" /> | **[microsoft/TypeScript](https://github.com/microsoft/TypeScript)** <br/> `Microsoft Core` | Type-checker support for `@deprecated` JSDoc annotations on namespace aliases | [![PR](https://img.shields.io/badge/Active-%2364853-2ea44f?style=flat-square)](https://github.com/microsoft/TypeScript/pull/64853) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" alt="VS Code" /> | **[microsoft/vscode](https://github.com/microsoft/vscode)** <br/> `Microsoft IDE` | SCM Git unstage handling in empty repositories & touch gesture event isolation | [![PR](https://img.shields.io/badge/Active-%23342315-2ea44f?style=flat-square)](https://github.com/microsoft/vscode/pull/342315) [![PR](https://img.shields.io/badge/Active-%23342314-2ea44f?style=flat-square)](https://github.com/microsoft/vscode/pull/342314) |
 
 ---
 
-## 🌟 About Me
+## 🚀 Live Flagship Projects
 
-- 💻 **Core Focus:** Full-Stack Web Development, Cross-Platform Mobile Apps (Flutter & React Native), and Distributed Backend Systems.
-- 🌐 **Open Source:** Actively contributing to enterprise-grade codebases across **Google**, **Microsoft**, **Flutter**, and the broader developer tooling landscape.
-- ⚙️ **Architecture & Engineering:** Strong foundations in RESTful API design, database modeling, CI/CD automation, and secure Web3/blockchain workflows.
-- 🎯 **Current Goal:** Collaborating with forward-thinking engineering teams to build products that scale to millions of users.
+| Project | Live Demo | Tech Stack | Overview |
+| :--- | :---: | :--- | :--- |
+| 🧠 **Astra — The AI Platform** | [**🌐 astra.nexgens.tech**](https://astra.nexgens.tech) | `Python` `Fine-Tuned LLMs` `RAG` `VS Code API` | Proprietary developer assistance platform with custom fine-tuned LLMs and in-editor extension |
+| 💻 **Interactive 3D Portfolio** | [**🌐 prasadnavale.me**](https://prasadnavale.me) | `Next.js` `Three.js` `TypeScript` `Tailwind CSS` | Modern personal portfolio featuring 3D particle backgrounds, project showcases, and animated UI |
+| 🌍 **AI Power Tours** | [**🌐 ai-power-tours.netlify.app**](https://ai-power-tours.netlify.app) | `React` `AI Travel Engine` `Tailwind CSS` | Intelligent itinerary planner and automated travel recommendation platform |
 
 ---
 
@@ -107,29 +100,6 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Engineering Projects
-
-<div align="center">
-  <p><em>Curated production platforms and open-source applications built by Prasad Navale:</em></p>
-</div>
-
-<div align="center">
-
-| Project | Tech Stack | Overview & Impact | Links |
-| :--- | :--- | :--- | :---: |
-| **Astra — The AI Platform** | `Python` `LLM Fine-Tuning` `RAG` `VS Code API` `TypeScript` | End-to-end proprietary developer assistance platform featuring custom-tuned LLMs, in-editor coding assistance, and context retrieval. | [🌐 Live Production](https://astra.nexgens.tech) |
-| **GovTender — Blockchain Procurement** | `Solidity` `Web3` `React` `Node.js` `Ethereum` | Blockchain-secured e-procurement platform eliminating corruption with smart contracts, automated AI bid evaluation, and IPFS audit trails. | [📁 GitHub Repo](https://github.com/prasad2512/GovTender-Blockchain-Procurement) |
-| **Room_Link — Room Rental Platform** | `React Native` `Expo` `Node.js` `MongoDB` | Cross-platform rental discovery and property management system with real-time in-app chat, geolocation mapping, and payment gateways. | [📁 GitHub Repo](https://github.com/prasad2512/Room_Link) |
-| **WhatsApp AI Restaurant Bot** | `Meta WhatsApp API` `n8n` `NLP` `Node.js` | Autonomous conversational AI agent handling restaurant order taking, dynamic menu navigation, customer preference memory, and automated payments. | [🌐 Case Study](https://prasadnavale.me) |
-| **AI Power Tours** | `React` `Node.js` `OpenAI` `MongoDB` `MERN` | Intelligent travel concierge integrating LLM recommendations with live booking engines for flights, stays, and transit. | [📁 GitHub Repo](https://github.com/prasad2512/ai-power-tours) |
-| **Jarvis — Telegram AI Assistant** | `Python` `LangChain` `OpenAI` `FastAPI` | Multi-agent conversational assistant automating daily developer tasks, reminders, context summaries, and document parsing via Telegram. | [🌐 Case Study](https://prasadnavale.me) |
-| **Pariksha_Link — Exam Platform** | `React Native` `Expo` `Firebase` | High-efficiency mobile examination and test assessment portal designed for high-concurrency student evaluations and grading. | [📁 GitHub Repo](https://github.com/prasad2512/Pariksha_Link) |
-| **Attendance Management System** | `Spring Boot` `Hibernate` `Docker` `MySQL` `JWT` | Enterprise backend featuring 25+ REST API endpoints, JWT role-based access control, and full containerized deployments. | [📁 GitHub Repo](https://github.com/prasad2512/attendance-management-system) |
 
 </div>
 
