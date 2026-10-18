@@ -16,29 +16,32 @@
 
 </div>
 
+## 🏆 Open Source Contributions & Activity Overview
+
+<div align="center">
+  <p><em>Active contributor to industry-standard developer platforms, frameworks, and enterprise runtimes:</em></p>
+</div>
+
+<div align="center">
+
+| Organization / Project | Repository | Contributions & Pull Requests | Status |
+| :--- | :--- | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="22" height="22" valign="middle" /> **Google** | [`googleapis/google-api-nodejs-client`](https://github.com/googleapis/google-api-nodejs-client) | [**#4052**](https://github.com/googleapis/google-api-nodejs-client/pull/4052): `feat(samples): add create permission sample for drive v3` | [![Active](https://img.shields.io/badge/PR_%234052-Review_Pending-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/googleapis/google-api-nodejs-client/pull/4052) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="22" height="22" valign="middle" /> **Flutter** | [`flutter/flutter`](https://github.com/flutter/flutter) | [**#194670**](https://github.com/flutter/flutter/pull/194670): `Refresh MediaQuery.alwaysUse24HourFormat on platform config changes` | [![Active](https://img.shields.io/badge/PR_%23194670-Open-238636?style=flat-square&logo=flutter&logoColor=white)](https://github.com/flutter/flutter/pull/194670) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22" height="22" valign="middle" /> **Microsoft** | [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript) | [**#64853**](https://github.com/microsoft/TypeScript/pull/64853): `Support @deprecated marker on namespace aliases (fixes #62340)` | [![Active](https://img.shields.io/badge/PR_%2364853-Open-238636?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript/pull/64853) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" valign="middle" /> **Microsoft** | [`microsoft/vscode`](https://github.com/microsoft/vscode) | [**#342315**](https://github.com/microsoft/vscode/pull/342315): `Fix unstage failing for modified files in repo without commits`<br/>[**#342314**](https://github.com/microsoft/vscode/pull/342314): `Fix gesture handler leaking cancelled touches (#332619)` | [![Active](https://img.shields.io/badge/PR_%23342315-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342315)<br/>[![Active](https://img.shields.io/badge/PR_%23342314-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342314) |
+| ⚡ **REA** | [`morluto/rea`](https://github.com/morluto/rea) | [**#4819**](https://github.com/morluto/rea/pull/4819): `fix(domain): admit Qualcomm Hexagon ELF binaries`<br/>[**#4838**](https://github.com/morluto/rea/pull/4838): `fix(javascript): admit CommonJS bare scoped package resolution`<br/>[**#5008**](https://github.com/morluto/rea/pull/5008): `fix(cli): expose device_id in list-frida-devices JSON output`<br/>[**#5011**](https://github.com/morluto/rea/pull/5011): `docs(cli): include Kuna in supported doctor providers`<br/>[**#5012**](https://github.com/morluto/rea/pull/5012): `docs(setup): clarify prebuild-install warning from optional deps` | [![Merged](https://img.shields.io/badge/PR_%234819-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4819)<br/>[![Merged](https://img.shields.io/badge/PR_%234838-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4838)<br/>[![Active](https://img.shields.io/badge/PR_%235008-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5008)<br/>[![Active](https://img.shields.io/badge/PR_%235011-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5011)<br/>[![Active](https://img.shields.io/badge/PR_%235012-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5012) |
+
+</div>
+
+---
+
 ## 🌟 About Me
 
 - 💻 **Core Focus:** Full-Stack Web Development, Cross-Platform Mobile Apps (Flutter & React Native), and Distributed Backend Systems.
 - 🌐 **Open Source:** Actively contributing to enterprise-grade codebases across **Google**, **Microsoft**, **Flutter**, and the broader developer tooling landscape.
 - ⚙️ **Architecture & Engineering:** Strong foundations in RESTful API design, database modeling, CI/CD automation, and secure Web3/blockchain workflows.
 - 🎯 **Current Goal:** Collaborating with forward-thinking engineering teams to build products that scale to millions of users.
-
----
-
-## 🏆 Open Source Contributions & Impact
-
-Proud contributor to industry-standard developer platforms and frameworks:
-
-<div align="center">
-
-| Project / Organization | Repository | Highlights & Impact |
-| :--- | :--- | :--- |
-| **Google** | [`googleapis/google-api-nodejs-client`](https://github.com/googleapis/google-api-nodejs-client) | Authored Drive v3 permissions sample & test suites (`#4052`) |
-| **Flutter** | [`flutter/flutter`](https://github.com/flutter/flutter) | Mobile framework optimizations & ecosystem contributions |
-| **Microsoft** | [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript) & [`vscode`](https://github.com/microsoft/vscode) | Core tooling investigation & upstream PR workflows |
-| **REA** | [`morluto/rea`](https://github.com/morluto/rea) | CLI instrumentation, Frida diagnostics, and documentation PRs (`#5008`, `#5011`, `#5012`) |
-
-</div>
 
 ---
 
