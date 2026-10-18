@@ -3,14 +3,39 @@
 # Hi there, I'm Prasad Navale 👋
 ### 🚀 Full-Stack & Mobile Engineer • Open-Source Contributor • System Builder
 
-[![GitHub Views](https://hits.sh/github.com/prasad2512.svg?style=flat-square&label=Profile+Views&color=007ec6)](https://hits.sh/github.com/prasad2512/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Navale-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-matoshri1420%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matoshri1420@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prasadnavale.me-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://prasadnavale.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Navale-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-navale-299635230)
+[![Email](https://img.shields.io/badge/Email-navaleprasad15%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:navaleprasad15@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Nashik%2C_India-green?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![GitHub Views](https://hits.sh/github.com/prasad2512.svg?style=flat-square&label=Profile+Views&color=007ec6)](https://hits.sh/github.com/prasad2512/)
 
 <p align="center">
   <em>Passionate developer focused on building scalable web & mobile architectures, AI-driven applications, and contributing to high-impact open-source ecosystems.</em>
 </p>
+
+<!-- 🏅 HERO ACHIEVEMENTS SHOWCASE -->
+<table align="center" style="border: none; border-collapse: collapse; margin-top: 10px; margin-bottom: 5px;">
+  <tr>
+    <td align="center" style="border: none; padding: 6px 18px;">
+      <a href="https://github.com/prasad2512?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="68" height="68" alt="Pull Shark Silver (x3)" /><br/>
+        <img src="https://img.shields.io/badge/Pull_Shark-Silver_x3-8957e5?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 6px 18px;">
+      <a href="https://github.com/prasad2512?tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="68" height="68" alt="Quickdraw" /><br/>
+        <img src="https://img.shields.io/badge/Quickdraw-Unlocked-238636?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 6px 18px;">
+      <a href="https://github.com/prasad2512?tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="68" height="68" alt="YOLO" /><br/>
+        <img src="https://img.shields.io/badge/YOLO-Unlocked-0969da?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,40 +56,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22" height="22" valign="middle" /> **Microsoft** | [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript) | [**#64853**](https://github.com/microsoft/TypeScript/pull/64853): `Support @deprecated marker on namespace aliases (fixes #62340)` | [![Active](https://img.shields.io/badge/PR_%2364853-Open-238636?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript/pull/64853) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" valign="middle" /> **Microsoft** | [`microsoft/vscode`](https://github.com/microsoft/vscode) | [**#342315**](https://github.com/microsoft/vscode/pull/342315): `Fix unstage failing for modified files in repo without commits`<br/>[**#342314**](https://github.com/microsoft/vscode/pull/342314): `Fix gesture handler leaking cancelled touches (#332619)` | [![Active](https://img.shields.io/badge/PR_%23342315-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342315)<br/>[![Active](https://img.shields.io/badge/PR_%23342314-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342314) |
 | ⚡ **REA** | [`morluto/rea`](https://github.com/morluto/rea) | [**#4819**](https://github.com/morluto/rea/pull/4819): `fix(domain): admit Qualcomm Hexagon ELF binaries`<br/>[**#4838**](https://github.com/morluto/rea/pull/4838): `fix(javascript): admit CommonJS bare scoped package resolution`<br/>[**#5008**](https://github.com/morluto/rea/pull/5008): `fix(cli): expose device_id in list-frida-devices JSON output`<br/>[**#5011**](https://github.com/morluto/rea/pull/5011): `docs(cli): include Kuna in supported doctor providers`<br/>[**#5012**](https://github.com/morluto/rea/pull/5012): `docs(setup): clarify prebuild-install warning from optional deps` | [![Merged](https://img.shields.io/badge/PR_%234819-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4819)<br/>[![Merged](https://img.shields.io/badge/PR_%234838-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4838)<br/>[![Active](https://img.shields.io/badge/PR_%235008-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5008)<br/>[![Active](https://img.shields.io/badge/PR_%235011-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5011)<br/>[![Active](https://img.shields.io/badge/PR_%235012-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5012) |
-
-</div>
-
----
-
-## 🏅 Official GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/prasad2512?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="90" height="90" alt="Pull Shark Silver (x3)" title="Pull Shark (Silver x3) - Merged pull requests" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/prasad2512?tab=achievements">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" height="90" alt="Quickdraw" title="Quickdraw - Closed an issue or PR within 5 minutes" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/prasad2512?tab=achievements">
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" height="90" alt="YOLO" title="YOLO - Merged a pull request without review" />
-</a>
-
-<br/>
-
-<a href="https://github.com/prasad2512?tab=achievements">
-  <img src="https://img.shields.io/badge/Pull_Shark-Silver_x3-8957e5?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prasad2512?tab=achievements">
-  <img src="https://img.shields.io/badge/Quickdraw-Unlocked-238636?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prasad2512?tab=achievements">
-  <img src="https://img.shields.io/badge/YOLO-Unlocked-0969da?style=flat-square&logo=github&logoColor=white" />
-</a>
 
 </div>
 
@@ -156,8 +147,9 @@
 
 I'm always open to discussing new opportunities, open-source initiatives, or innovative product engineering:
 
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/)
-- 📧 **Direct Email:** [matoshri1420@gmail.com](mailto:matoshri1420@gmail.com)
+- 🌐 **Portfolio Website:** [prasadnavale.me](https://prasadnavale.me)
+- 💼 **LinkedIn:** [linkedin.com/in/prasad-navale-299635230](https://www.linkedin.com/in/prasad-navale-299635230)
+- 📧 **Direct Email:** [navaleprasad15@gmail.com](mailto:navaleprasad15@gmail.com)
 - 🌐 **GitHub:** [@prasad2512](https://github.com/prasad2512)
 
 <div align="center">
