@@ -49,13 +49,14 @@
 
 <div align="center">
 
-| Organization / Project | Repository | Contributions & Pull Requests | Status |
+| Organization / Project | Focus Area | Key Contributions & Pull Requests | Status |
 | :--- | :--- | :--- | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="22" height="22" valign="middle" /> **Google** | [`googleapis/google-api-nodejs-client`](https://github.com/googleapis/google-api-nodejs-client) | [**#4052**](https://github.com/googleapis/google-api-nodejs-client/pull/4052): `feat(samples): add create permission sample for drive v3` | [![Active](https://img.shields.io/badge/PR_%234052-Review_Pending-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/googleapis/google-api-nodejs-client/pull/4052) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="22" height="22" valign="middle" /> **Flutter** | [`flutter/flutter`](https://github.com/flutter/flutter) | [**#194670**](https://github.com/flutter/flutter/pull/194670): `Refresh MediaQuery.alwaysUse24HourFormat on platform config changes` | [![Active](https://img.shields.io/badge/PR_%23194670-Open-238636?style=flat-square&logo=flutter&logoColor=white)](https://github.com/flutter/flutter/pull/194670) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22" height="22" valign="middle" /> **Microsoft** | [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript) | [**#64853**](https://github.com/microsoft/TypeScript/pull/64853): `Support @deprecated marker on namespace aliases (fixes #62340)` | [![Active](https://img.shields.io/badge/PR_%2364853-Open-238636?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript/pull/64853) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" valign="middle" /> **Microsoft** | [`microsoft/vscode`](https://github.com/microsoft/vscode) | [**#342315**](https://github.com/microsoft/vscode/pull/342315): `Fix unstage failing for modified files in repo without commits`<br/>[**#342314**](https://github.com/microsoft/vscode/pull/342314): `Fix gesture handler leaking cancelled touches (#332619)` | [![Active](https://img.shields.io/badge/PR_%23342315-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342315)<br/>[![Active](https://img.shields.io/badge/PR_%23342314-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342314) |
-| ⚡ **REA** | [`morluto/rea`](https://github.com/morluto/rea) | [**#4819**](https://github.com/morluto/rea/pull/4819): `fix(domain): admit Qualcomm Hexagon ELF binaries`<br/>[**#4838**](https://github.com/morluto/rea/pull/4838): `fix(javascript): admit CommonJS bare scoped package resolution`<br/>[**#5008**](https://github.com/morluto/rea/pull/5008): `fix(cli): expose device_id in list-frida-devices JSON output`<br/>[**#5011**](https://github.com/morluto/rea/pull/5011): `docs(cli): include Kuna in supported doctor providers`<br/>[**#5012**](https://github.com/morluto/rea/pull/5012): `docs(setup): clarify prebuild-install warning from optional deps` | [![Merged](https://img.shields.io/badge/PR_%234819-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4819)<br/>[![Merged](https://img.shields.io/badge/PR_%234838-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pull/4838)<br/>[![Active](https://img.shields.io/badge/PR_%235008-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5008)<br/>[![Active](https://img.shields.io/badge/PR_%235011-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5011)<br/>[![Active](https://img.shields.io/badge/PR_%235012-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5012) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="20" height="20" valign="middle" /> **Google** | `Drive v3 API` | [**#4052**](https://github.com/googleapis/google-api-nodejs-client/pull/4052): `feat(samples): create permission sample with GoogleAuth` | [![Review Pending](https://img.shields.io/badge/PR_%234052-Review_Pending-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/googleapis/google-api-nodejs-client/pull/4052) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20" height="20" valign="middle" /> **Flutter** | `Framework Core` | [**#194670**](https://github.com/flutter/flutter/pull/194670): `Refresh MediaQuery.alwaysUse24HourFormat on platform config` | [![Active PR](https://img.shields.io/badge/PR_%23194670-Open-238636?style=flat-square&logo=flutter&logoColor=white)](https://github.com/flutter/flutter/pull/194670) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20" valign="middle" /> **Microsoft** | `TypeScript Compiler` | [**#64853**](https://github.com/microsoft/TypeScript/pull/64853): `Support @deprecated marker on namespace aliases (fixes #62340)` | [![Active PR](https://img.shields.io/badge/PR_%2364853-Open-238636?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript/pull/64853) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> **Microsoft** | `VS Code Runtime` | [**#342315**](https://github.com/microsoft/vscode/pull/342315): `Fix unstage failing in empty git repositories`<br/>[**#342314**](https://github.com/microsoft/vscode/pull/342314): `Fix gesture handler leaking cancelled touch events` | [![Active PR](https://img.shields.io/badge/PR_%23342315-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342315)<br/>[![Active PR](https://img.shields.io/badge/PR_%23342314-Open-238636?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/342314) |
+| ⚡ **REA Engine** | `Binary Domain` | [**#4819**](https://github.com/morluto/rea/pull/4819): `Qualcomm Hexagon ELF` • [**#4838**](https://github.com/morluto/rea/pull/4838): `CommonJS Scoped Resolution` | [![Merged](https://img.shields.io/badge/Core_PRs-Merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/morluto/rea/pulls?q=is%3Apr+author%3Aprasad2512+is%3Amerged) |
+| ⚡ **REA Tooling** | `CLI & Ecosystem` | [**#5008**](https://github.com/morluto/rea/pull/5008): `Device ID output` • [**#5011**](https://github.com/morluto/rea/pull/5011): `Kuna docs` • [**#5030**](https://github.com/morluto/rea/issues/5030): `CI dead-links` | [![Passing CI](https://img.shields.io/badge/PRs-Passing_CI-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/pull/5008) [![Issue](https://img.shields.io/badge/Issue-Open-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/morluto/rea/issues/5030) |
 
 </div>
 
@@ -130,16 +131,27 @@
 
 ## 📊 GitHub Analytics & Streak
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prasad2512&show_icons=true&show=reviews&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Prasad's GitHub Stats" height="195" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad2512&theme=radical&hide_border=true" alt="Prasad's GitHub Streak" height="195" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad2512&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
+<table align="center" style="border: none; border-collapse: collapse; margin: auto;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" style="border: none; padding: 6px;">
+      <a href="https://github.com/prasad2512">
+        <img src="https://github-readme-stats.vercel.app/api?username=prasad2512&show_icons=true&show=reviews&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="385" alt="Prasad's GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" valign="middle" style="border: none; padding: 6px;">
+      <a href="https://github.com/prasad2512">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad2512&theme=radical&hide_border=true&cache_seconds=1800" width="385" alt="Prasad's GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td colspan="2" align="center" valign="middle" style="border: none; padding: 6px;">
+      <a href="https://github.com/prasad2512">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad2512&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="320" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
