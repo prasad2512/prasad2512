@@ -132,8 +132,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasad2512&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Prasad's GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad2512&theme=radical&hide_border=true" alt="Prasad's GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=prasad2512&show_icons=true&show=reviews&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Prasad's GitHub Stats" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad2512&theme=radical&hide_border=true" alt="Prasad's GitHub Streak" height="195" />
 
 <br/>
 
