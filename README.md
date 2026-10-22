@@ -8,6 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-navaleprasad15%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:navaleprasad15@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Nashik%2C_India-green?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 [![GitHub Views](https://hits.sh/github.com/prasad2512.svg?style=flat-square&label=Profile+Views&color=007ec6)](https://hits.sh/github.com/prasad2512/)
+[![Follow](https://img.shields.io/github/followers/prasad2512?label=Follow%20%40prasad2512&style=social)](https://github.com/prasad2512)
 
 <p align="center">
   <em>Passionate developer focused on building scalable web & mobile architectures, AI-driven applications, and contributing to high-impact open-source ecosystems.</em>
